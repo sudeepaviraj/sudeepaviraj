@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in Python , Javascript and PHP<br>🌱 I’m currently learning  Frameworks Such As Express, React and Laravel<br>📫 How to reach me virajithaabekoon@gmail.com
+👀 I’m interested in Python , Javascript and PHP<br>🌱 I’m currently learning  Frameworks Such As Express, React and Laravel<br>📫 How to reach me mail@sudeepavirajitha.me
 
 
 ## 🌐 Socials:
